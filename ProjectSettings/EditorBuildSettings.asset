@@ -5,8 +5,11 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/SampleScene.unity
-    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9e229f11ba6e34456ac38e5bc96dfde5
+  - enabled: 1
+    path: Assets/Scenes/Asteroids.unity
+    guid: 44f4454074bc61a0eb252fb8fdb45995
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a242b4f12fabab6289de252d87a65917, type: 2}
